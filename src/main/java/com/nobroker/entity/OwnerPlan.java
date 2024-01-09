@@ -21,7 +21,7 @@ public class OwnerPlan {
     @Column(name="price")
     private double price;
     @Column(name="plan_validity")
-    private int planeValidity;
+    private int planValidity;
     @Column(name="relationship_manager")
     private boolean relationshipManager;
     @Column(name="rental_agreement")

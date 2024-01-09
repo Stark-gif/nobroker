@@ -18,7 +18,7 @@ public class OwnerPlanDto {
 
     private double price;
 
-    private int planeValidity;
+    private int planValidity;
 
     private boolean relationshipManager;
 
